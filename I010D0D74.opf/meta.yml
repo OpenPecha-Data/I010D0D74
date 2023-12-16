@@ -1,0 +1,86 @@
+id: I010D0D74
+legacy_id: null
+ocr_import_info:
+  bdrc_scan_id: W1KG14505
+  source: bdrc
+  ocr_info:
+    timestamp: '2023-02-01T00:00:00Z'
+  batch_id: batch-0002
+  software_id: norbuketaka
+  expected_default_language: bo
+  op_import_options: null
+default_language: bo
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2023-12-16T16:58:13.732658'
+last_modified: '2023-02-01T00:00:00+00:00'
+parser: https://github.com/OpenPecha/Norbu-Keta-eText-import/blob/main/norbu_ketaka_parser.py
+source_metadata:
+  id: http://purl.bdrc.io/resource/W1KG14505
+  status: http://purl.bdrc.io/admindata/StatusReleased
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  reproduction_of: http://purl.bdrc.io/resource/MW1KG14505
+  copyright_status: http://purl.bdrc.io/resource/CopyrightPublicDomain
+  title: གསུང་འབུམ། དགེ་འདུན་གྲུབ།
+  languages:
+  - bo
+  author: དགེ་འདུན་གྲུབ་པ།
+statistics: null
+quality: null
+bases:
+  I1KG15201:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1KG15201
+      total_pages: 836
+      volume_number: 1
+      volume_pages_bdrc_intro: 2
+    base_file: I1KG15201.txt
+    order: 1
+  I1KG15202:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1KG15202
+      total_pages: 854
+      volume_number: 2
+      volume_pages_bdrc_intro: 2
+    base_file: I1KG15202.txt
+    order: 2
+  I1KG15203:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1KG15203
+      total_pages: 624
+      volume_number: 3
+      volume_pages_bdrc_intro: 2
+    base_file: I1KG15203.txt
+    order: 3
+  I1KG15205:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1KG15205
+      total_pages: 642
+      volume_number: 5
+      volume_pages_bdrc_intro: 2
+    base_file: I1KG15205.txt
+    order: 4
+  I1KG15207:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1KG15207
+      total_pages: 530
+      volume_number: 7
+      volume_pages_bdrc_intro: 2
+    base_file: I1KG15207.txt
+    order: 5
+  I1KG15208:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1KG15208
+      total_pages: 436
+      volume_number: 8
+      volume_pages_bdrc_intro: 2
+    base_file: I1KG15208.txt
+    order: 6
+copyright:
+  status: Public domain
+  notice: The proofread texts are donated by the Norbu Ketaka project led by Queenie
+    Luo (Harvard University), Zhiying Li (Sichuan University) and Leonard van der
+    Kuijp (Harvard University). Correspondence should be directed to  queenieluo@g.harvard.edu
+  info_url: null
+license: CC0
